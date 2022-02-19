@@ -1,0 +1,4 @@
+Name: Горбачёва Жанна Вадимовна
+Age: 35
+Number of pets: 2
+Salary: 1000000
