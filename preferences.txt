@@ -1,0 +1,5 @@
+Favorite_movie: Список Шиндлера,
+Favorite_serial: Фарго,
+Favorite_food: Овощной салат,
+Favorite_season: Лето,
+Favorite_country: Швеция
